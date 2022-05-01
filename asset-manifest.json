@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Apple-with-React/static/css/main.0bf7d1ca.css",
+    "main.js": "/Apple-with-React/static/js/main.e8e1b39a.js",
+    "static/js/787.c2651d7e.chunk.js": "/Apple-with-React/static/js/787.c2651d7e.chunk.js",
+    "static/media/short.mp4": "/Apple-with-React/static/media/short.1c89ab57526461e4e01a.mp4",
+    "static/media/logo.svg": "/Apple-with-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Apple-with-React/index.html",
+    "main.0bf7d1ca.css.map": "/Apple-with-React/static/css/main.0bf7d1ca.css.map",
+    "main.e8e1b39a.js.map": "/Apple-with-React/static/js/main.e8e1b39a.js.map",
+    "787.c2651d7e.chunk.js.map": "/Apple-with-React/static/js/787.c2651d7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf7d1ca.css",
+    "static/js/main.e8e1b39a.js"
+  ]
+}
