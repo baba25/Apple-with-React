@@ -1,0 +1,222 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+nav {
+  display: flex;
+  margin: 0 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+ul.nav__order {
+  list-style: none;
+  display: flex;
+}
+li.nav__order {
+  padding: 0 40px;
+}
+.navhero {
+  background-color: #bab9ffa1;
+  padding: 0 0 15px 0;
+}
+.nav__menu > ul > li {
+  font-weight: bold;
+}
+.nav__btn > button {
+  height: 48px;
+  width: 125px;
+  border-radius: 10px;
+  border-style: none;
+  background-color: #1c0dca;
+  color: #fff;
+  font-size: 14px;
+}
+section.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.hero__des {
+  max-width: 528px;
+}
+.hero__des > p {
+  font-size: 18px;
+}
+.hero__des > h1 {
+  font-size: 44px;
+  max-width: 477px;
+}
+.hero__des > button {
+  height: 48px;
+  width: 125px;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 10px;
+  border-style: none;
+  background-color: #1c0dca;
+}
+section.info__1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 4rem;
+  justify-content: space-around;
+}
+.info__des {
+  max-width: 477px;
+}
+.info__des > h1 {
+  font-size: 38px;
+}
+.info__des > p {
+  font-size: 18px;
+}
+.info__des > button {
+  height: 48px;
+  width: 125px;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 10px;
+  border-style: none;
+  background-color: #1c0dca;
+}
+.info__img > img {
+  width: 600px;
+  height: 600px;
+}
+section.info__2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 4rem;
+  justify-content: space-around;
+  margin: 0 2.5rem;
+}
+.info__des2 {
+  max-width: 477px;
+}
+.info__des2 > h1 {
+  font-size: 38px;
+}
+.info__des2 > p {
+  font-size: 18px;
+}
+.info__des2 > button {
+  height: 48px;
+  width: 125px;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 10px;
+  border-style: none;
+  background-color: #1c0dca;
+}
+.info__img2 > img {
+  width: 600px;
+  height: 600px;
+}
+section.explained {
+  display: block;
+  margin-top: 6rem;
+}
+.sec__img > img {
+  width: 750px;
+  height: 750px;
+}
+.sec__title {
+  text-align: center;
+}
+.all__flex {
+  justify-content: space-between;
+  display: flex;
+}
+.all_column {
+  display: inline-block;
+  text-align: center;
+  margin: 0 4rem;
+}
+.block__down {
+  margin-top: 25rem;
+}
+.video-js {
+  align-items: center;
+  display: block;
+  margin: 0 auto;
+}
+.video-js .vjs-big-play-button {
+  background-color: #1c0dca !important;
+}
+.video__sec {
+  text-align: center;
+}
+.partners {
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+  margin: 2rem 0;
+}
+.partners__img > img {
+  width: 100px;
+  height: 100px;
+  margin-right: 2rem;
+  padding: 0 2rem;
+}
+section.footer{
+  display: flex;
+  background-color:#bab9ffa1;
+  justify-content: space-around;
+}
+ul {
+  list-style-type: none;
+  margin-left: -2rem;
+}
+li{
+  font-size: 16px;
+}
+.footer__one > p{
+  font-size: 16px;
+  max-width: 300px;
+}
+.footer__two{
+  max-width: 300px;
+}
+.footer__three{
+  max-width: 300px;
+}
+.footer__four{
+  max-width: 300px;
+}
